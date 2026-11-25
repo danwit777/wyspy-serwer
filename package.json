@@ -1,0 +1,9 @@
+{
+  "name": "wyspy-owocow-mocy-serwer",
+  "version": "1.0.0",
+  "description": "Serwer multiplayer dla gry Wyspy Owoców Mocy 3D (do 4 graczy w świecie, kooperacja i PvP)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
