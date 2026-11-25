@@ -1,0 +1,2 @@
+# wyspy-serwer
+Serwer Aarona
